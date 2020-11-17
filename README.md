@@ -1,2 +1,2 @@
 # GITIDEA
-idea下的git操作 
+idea下的git操作
